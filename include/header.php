@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title><?= 'personal media library  ' ?></title>
+	<title> </title>
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>

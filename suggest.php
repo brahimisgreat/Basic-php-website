@@ -1,5 +1,6 @@
 <?php 
     include("include/header.php");
+    $pageTitle = "Suggest a media item";
 ?>
 
 <div class="section page">
