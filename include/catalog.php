@@ -5,3 +5,7 @@
 <div class="section page">
     <h1>Full catalog</h1>
 </div>
+
+<?php 
+include("include/footer.php");
+?>
